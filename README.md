@@ -9,7 +9,7 @@ Prepare a dashboard using dummy data on any platform of your choice with the rel
 
 If you were looking at these numbers daily:
 1. What leading indicators would inform you of a potential problem statement?
-...Prepare two scenarios
+⋅⋅⋅Prepare two scenarios
 2. How would you solve the problem along with the help product, marketing and operations?
 
 ## Please note that the data is not real and has been generated using fictional numbers.
