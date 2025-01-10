@@ -8,8 +8,8 @@ For a super app like Careem offering multiple services, we as the food growth te
 Prepare a dashboard using dummy data on any platform of your choice with the relevant KPIs and corresponding frequency of viewing these KPIs.
 
 If you were looking at these numbers daily:
-a. What leading indicators would inform you of a potential problem statement?
+1. What leading indicators would inform you of a potential problem statement?
 ...Prepare two scenarios
-b. How would you solve the problem along with the help product, marketing and operations?
+2. How would you solve the problem along with the help product, marketing and operations?
 
 ## Please note that the data is not real and has been generated using fictional numbers.
